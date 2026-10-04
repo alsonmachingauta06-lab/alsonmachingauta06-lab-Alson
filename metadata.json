@@ -1,0 +1,7 @@
+{
+  "name": "ALSON-XMD WhatsApp Bot Studio",
+  "description": "Production-ready Node.js WhatsApp Bot with Baileys, Multi-Device, Pairing Code, Plugins, and Gemini AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
